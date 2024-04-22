@@ -1,3 +1,3 @@
 # Profile
 ## About Me
-<img src= "profile pic.html" width='300'/>
+<img src= "profile pic.jpg" width='300'/>
