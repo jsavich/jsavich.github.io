@@ -1,3 +1,3 @@
-# Eyes
-## Exercise on eyes
-<img src= "oneeye.png" width='300'/>
+# Profile
+## About Me
+<img src= "profile pic.html" width='300'/>
